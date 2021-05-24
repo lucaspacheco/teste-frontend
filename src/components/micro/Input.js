@@ -1,4 +1,5 @@
 import React from 'react';
+import PlainInput from './PlainInput'; //import de PlainInput.js do mesmo diretório
 
 const Input = props => {
     return (
